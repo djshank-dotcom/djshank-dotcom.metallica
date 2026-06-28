@@ -1,0 +1,6 @@
+{
+  "name": "Metallica Metal Player",
+  "description": "An immersive, cinematic backstage Metallica cassette multitrack player and synthesizer. Features real-time parametric EQ processing, a spinning tape deck, scrolling lyrics & guitar tabs, and a custom Backstage AI Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
